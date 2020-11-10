@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_desert"
+    tools:context=".Scene2Activity">
+
+
+    <ImageView
+        android:id="@+id/characterImage"
+        android:layout_width="320dp"
+        android:layout_height="320dp"
+        android:contentDescription="@string/cowboy_ace_image"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="parent"
+        app:srcCompat="@drawable/cowboy_ace" />
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="474dp"
+        android:layout_height="115dp"
+        android:layout_marginBottom="25dp"
+        android:background="@drawable/dialoguebox"
+        android:orientation="vertical"
+        android:translationZ="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/characterName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_marginBottom="10dp"
+            android:background="@null"
+            android:clickable="false"
+            android:focusable="false"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/ace"
+            android:textSize="14sp"
+            android:textStyle="bold"
+
+            app:fontFamily="@font/bubblegum_sans"
+            tools:targetApi="jelly_bean" />
+
+
+        <TextView
+            android:id="@+id/dialogueContent"
+            android:layout_width="420dp"
+            android:layout_height="64dp"
+            android:layout_gravity="top"
+            android:layout_marginStart="16sp"
+            android:layout_marginLeft="32sp"
+            android:layout_marginTop="2dp"
+            android:background="@null"
+            android:clickable="false"
+            android:focusable="false"
+            android:text="text"
+            android:textSize="20sp"
+            app:fontFamily="@font/bubblegum_sans" />
+
+
+    </LinearLayout>
+
+    <Button
+        android:background="@null"
+        android:id="@+id/nextBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:text="@string/next"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:translationZ="2dp"
+        app:layout_constraintBottom_toBottomOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout"
+        app:fontFamily="@font/bubblegum_sans">
+        <!--   app:layout_constraintTop_toTopOf="@+id/linearLayout"-->
+
+
+    </Button>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

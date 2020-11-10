@@ -1,0 +1,206 @@
+<resources>
+    <string name="app_name">AceOnCase</string>
+    <string name="todo">TODO</string>
+    <string name="cowboy_ace_image">Cowboy ace image</string>
+
+    <!-- Scene 1 Dialogue -->
+    <string-array name="array_of_dialogues">
+        <item>Hello! I’m Ace and I am a detective! </item>
+        <item>Mayor Bean needs our help solving the Mystery of the Missing Chocolate.</item>
+        <item>He is located in the Wild West.</item>
+        <item>Do you want to be my partner and help me solve this case?</item>
+        <item>Awesome! Now, we have a mystery to solve. It’s you and me in the Wild West. </item>
+        <item>Ace is on the case!</item>
+    </string-array>
+
+    <!-- Scene 2 Dialogue -->
+    <string-array name="array_of_dialogues_scene2">
+        <item>Hello there! Good to see you in one piece. And in the right era.</item>
+        <item>Not that we had problems with time travel in the past&#8230;</item>
+        <item>Anyways&#8230;</item>
+        <item>We’ve been transported to the middle of the DESERT!</item>
+        <item>We should go find the nearby town and find Mayor Bean!</item>
+        <item>WAIT!</item>
+        <item>Now we can go find Mayor Bean in style.</item>
+    </string-array>
+
+    <!-- Scene 3 Dialogue -->
+    <string-array name="array_of_dialogues_scene3">
+        <item>We need to find Mayor Bean!</item>
+        <item>Mayor Bean? MAYOR BEAAAAAN?</item>
+        <item>How do we find Mayor Bean now?</item>
+        <item>Did someone call my name?</item>
+        <item>Mayor Bean! It\’s a good thing we found you.</item>
+        <item>You mentioned in the telegram you needed help?</item>
+        <item>*yawns*</item>
+        <item>Ah yes.</item>
+        <item>We have a charity event tomorrow for the kids of our town.</item>
+        <item>But all the chocolate is gone!</item>
+        <item>That\'s why we need your help.</item>
+        <item>We are ready to help, chief.</item>
+        <item>We can start by looking at the crime scene.</item>
+        <item>I\’ll take you to my personal vault.</item>
+    </string-array>
+
+    <!-- Scene 4 Dialogue -->
+    <string-array name="array_of_dialogues_scene4">
+        <item>Oh no!</item>
+        <item>I had the chocolate stashed behind all these gems and gold.</item>
+        <item>It’s all gone now!</item>
+        <item>We will help you solve this mystery, Mayor.</item>
+        <item>First thing we need to do is to analyze the crime scene.</item>
+        <item>Hey Buddy. We need to get to that pedestal.</item>
+        <item>Will you help me move all of these things around?</item>
+        <item>OK. Time to look for any clues we can find.</item>
+    </string-array>
+
+    <!-- Scene 5 Dialogue -->
+    <string-array name="array_of_dialogues_scene5">
+        <item>Mayor Bean?</item>
+        <item>*yawns*</item>
+        <item>Yeees?</item>
+        <item>We found a wrapper with pieces of chocolate on it.</item>
+        <item>Someone unwrapped one and ate it right here!</item>
+        <item>So the chocolate was eaten!</item>
+        <item>Precisely.</item>
+        <item>We now need to find who ate all the chocolate.</item>
+        <item>*yawns*</item>
+        <item>Try asking the Sheriff about who has chocolate eating habits!</item>
+        <item>She usually hangs around town.</item>
+        <item>If you call her you can probably find her.</item>
+        <item>Her name is Sheriff Nugget.</item>
+        <item>She is very sweet. You’ll love her.</item>
+        <item>Even though she  is not the brightest&#8230;</item>
+        <item>she will be able to help.</item>
+        <item>Ok! To the town we go!</item>
+        <item>To the nap I return!</item>
+    </string-array>
+    <!-- Scene 6 Dialogue -->
+    <string-array name="array_of_dialogues_scene6">
+        <item>Hi! Are you the Sheriff?</item>
+        <item>Sheriff Nugget happy to assist! What’s your name?</item>
+        <item>My name is Detective Ace.</item>
+        <item>I’m helping the Mayor solve a mystery.</item>
+        <item>Have you seen anyone around with a lot of chocolate around their mouths?</item>
+        <item>Maybe someone who had chocolate on their paws?</item>
+        <item>OOoh! I see.</item>
+        <item>There are a few kids over here who might know what happened.</item>
+        <item>I’ll ask them</item>
+        <item>&#8230;</item>
+        <item>They don’t know anything.</item>
+        <item>Maybe the old coyote Jim!</item>
+        <item>&#8230;</item>
+        <item>He doesn’t know anything</item>
+        <item>This is so exciting! A mystery you say?</item>
+        <item>Yes, yes, we need to find the chocolate thieves.</item>
+        <item>Ahhhh I love chocolate.</item>
+        <item>I can’t remember the last time something this exciting happened!</item>
+        <item>But I don’t know how to help&#8230;</item>
+        <item>Maybe look in the mines for more clues?</item>
+        <item> A good idea!</item>
+        <item>Can you take me there?</item>
+    </string-array>
+
+    <!-- Scene 7 Dialogue -->
+    <string-array name="array_of_dialogues_scene7">
+        <item>Alright.</item>
+        <item>I don’t see anything here that could be useful…</item>
+        <item>Maybe in those carts?</item>
+        <item>&#8230;</item>
+        <item>There’s no trace of chocolate here.</item>
+        <item>Let’s go find Sheriff Nugget again</item>
+        <item>Sheriff Nugget?</item>
+        <item>Present!</item>
+        <item>There was nothing at the mines.</item>
+        <item>Where else could we look for clues?</item>
+        <item>Not sure.</item>
+        <item>&#8230;</item>
+        <item>HMMMM</item>
+        <item>No clue.</item>
+        <item>How about I take you to the crime scene and you can see if I missed anything?</item>
+        <item>OK!</item>
+    </string-array>
+
+    <!-- Scene 8 Dialogue -->
+    <string-array name="array_of_dialogues_scene8">
+        <item>Hello Mayor Bean</item>
+        <item>Ahh, Sheriff Nugget and Detective Ace.</item>
+        <item>Has my chocolate been found?</item>
+        <item>Not yet. We have no idea what to do from here.</item>
+        <item>I’m taking Sheriff Nugget to the crime scene to look for more clues.</item>
+        <item>Maybe she’ll see something?</item>
+        <item>Alright! Let me know what you find!</item>
+        <item>&#8230;</item>
+        <item>This is what is missing?</item>
+        <item>Yes, there was a pile of chocolate here 2 days ago.</item>
+        <item>And it just disappeared?</item>
+        <item>Yup</item>
+        <item>I have to tell you and the Mayor something really important.</item>
+        <item>Let’s walk back</item>
+        <item>Mayor Bean&#8230;</item>
+        <item>I ate your chocolate.</item>
+        <item>WHAT?</item>
+        <item>Hol’ up, why?</item>
+        <item>The chocolate was for the charity event on Friday!</item>
+        <item>Really? Nooo!</item>
+        <item>I had no idea!</item>
+        <item>I just saw the chocolate there&#8230;</item>
+        <item>And I REALLY wanted to eat it.</item>
+        <item>It was supposed to be a surprise for the kids!</item>
+        <item>I’m sorry Mayor Bean.</item>
+        <item>Ahh, it’s okay. I forgive you.</item>
+        <item>I’ll just ask Detective Ace to entertain the kids then.</item>
+        <item>Wait, Mayor!</item>
+        <item>I can make this right.</item>
+        <item>We have a day until the charity.</item>
+        <item>I’ll get my friend in the nearest town to send me some of his imported chocolate.</item>
+        <item>I’ll just pay him for all he has and ask him to send it over through the mines.</item>
+        <item>Again, I’m sorry. Meet me in the mines by sundown.</item>
+    </string-array>
+
+    <!-- Scene 9 Dialogue -->
+    <string-array name="array_of_dialogues_scene9">
+        <item>I can’t believe Sheriff Nugget ate all of the chocolate!</item>
+        <item>She ate it without even asking?!</item>
+        <item>*yawns*</item>
+        <item>Everyone makes mistakes&#8230;</item>
+        <item>We need to forgive them as they do when we make mistakes.</item>
+        <item>Not only did she admit to it, she’s working hard to make it right, that takes courage.</item>
+        <item>That is true! I’m proud of her.</item>
+        <item>That’s the spirit my boy.</item>
+        <item>Now let’s go help with the chocolate!</item>
+        <item>Mayor! Ace! Over here!</item>
+        <item>Help me bring that cart over here</item>
+        <item>Come help us!</item>
+        <item>Let’s take it to the town.</item>
+        <item>Wait, Ms. Nugget</item>
+        <item>This is more than the chocolate we lost.</item>
+        <item>I know. I wanted to apologize.</item>
+        <item>After explaining the situation to my friend, Charlie and her grandkids, they helped me get more chocolate.</item>
+        <item>She usually stocks up on chocolate for her grandkids,</item>
+        <item>But after hearing about the charity event they decided to share all of what they had this year.</item>
+        <item>They are very thankful for what they have, and they wanted to help others feel happy too!</item>
+        <item>Thank you Ms. Nugget. I really appreciate that.</item>
+        <item>And I am really thankful for your help, Mr. Ace.</item>
+        <item>If it wasn’t for you, we would have never known. </item>
+        <item>Let’s go into town.</item>
+        <item>This chocolate is amazing. Thank you Sheriff Nugget!</item>
+        <item>Thank you, Ace. I didn’t realize that the chocolate wasn’t just there for anyone to eat.</item>
+        <item>You’ve helped me make things right. And you made it in time to help these kids have a great thanksgiving.</item>
+        <item>Just doing my job!</item>
+        <item>I have to go back to my time now.</item>
+        <item>But it was great meeting you, Sheriff.</item>
+        <item>I will always remember you, and how important it is to work to make things right.</item>
+        <item>Goodbye Mayor Bean! I learned a lot today thanks to you!</item>
+        <item>My boy, remember to come visit sometime soon! I promise I will be mostly awake to greet you.</item>
+        <item>Maybe by Christmas, Mr. Bean.</item>
+        <item>I got a call I’m needed to help people who won’t stop dancing.</item>
+        <item>Gotta admit I’m curious!</item>
+        <item>Haha, go onto your adventure then, my boy. Goodbye!</item>
+    </string-array>
+
+    <string name="next">Next</string>
+    <string name="pi_ace_image">Detective Ace image</string>
+    <string name="ace">DETECTIVE ACE</string>
+    <string name="mayor_bean_image">Mayor Bean Image</string>
+</resources>

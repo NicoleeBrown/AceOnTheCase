@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aceonthecasev100"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:targetSdkVersion="29" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.aceonthecasev100.Scene9Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity android:name="com.example.aceonthecasev100.Scene8Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity android:name="com.example.aceonthecasev100.Scene7Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity android:name="com.example.aceonthecasev100.Scene6Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity android:name="com.example.aceonthecasev100.Scene5Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape">
+        </activity>
+        <activity android:name="com.example.aceonthecasev100.Scene4Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape"/>
+        <activity
+            android:name="com.example.aceonthecasev100.Scene3Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.example.aceonthecasev100.Scene2Activity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="com.example.aceonthecasev100.MainActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
